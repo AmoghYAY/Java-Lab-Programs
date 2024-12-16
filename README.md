@@ -44,12 +44,12 @@ Here is a summary of the concepts covered week by week:
 
 | Week | Topics |
 |------|--------|
-| 1    | Basics of Java, Input/Output, Data Types |
-| 2    | Control Structures, Loops |
-| 3    | Functions, Recursion |
-| 4    | Arrays, Strings |
-| 5    | Classes and Objects |
-| 6    | Inheritance, Polymorphism |
-| 7    | Abstract Classes, Interfaces |
-| 8    | Exception Handling |
-| 9    | File Handling, Collections |
+| 1    | Quadratic Equations Program |
+| 2    | Student SGPA Program |
+| 3    | Book Program |
+| 4    | Shape Area Program |
+| 5    | Bank Program |
+| 6    | Java Packages |
+| 7    | Inheritance In Java |
+| 8    | Threads In Java |
+| 9    | Swing Demo Program |
