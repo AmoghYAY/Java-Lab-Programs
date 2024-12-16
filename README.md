@@ -8,7 +8,7 @@ Welcome to my **Java Lab Codes** repository! 👋 This repository contains all t
 
 ## Repository Details
 
-- **Owner:** Amogh A Rau
+- **Owner:** Amogh Sailesh Rau
 - **USN:** 1BM23CS030
 - **Course:** Java Programming Lab
 - **Weeks Covered:** 1 to 9
